@@ -1,0 +1,9 @@
+
+body{
+	background: url(Five-Stars.jpg) no-repeat;
+	background-size:cover;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+		font-family: sans-serif;
+}
